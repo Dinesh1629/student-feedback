@@ -1,0 +1,95 @@
+#main
+{
+	margin-left:8%;
+  margin-right:8%;
+  margin-top:10%;
+	border-radius:0.5em;
+  padding-left:13%;
+  box-shadow: 0px 0px 4px #fff;
+  background-color:#e8f442;	
+}
+body {
+  background-color:green;
+  font-family: 'Titillium Web', sans-serif;
+}
+<style type="text/css">
+  #myNavbar{
+  text-align: center;
+}
+#text2{
+  font-family: Bookman;
+  font-style: inherit;
+  font-size: 34px;
+  text-shadow: 0px 1px 2px black;
+  color:green;
+
+}
+#nav
+{
+  box-shadow: 0px 0px 5px #caefca;
+ padding: 20px; 
+ background-color:yellow;
+ border:none;  
+}
+.navbar-toggle
+{
+  background-color:black;
+  box-shadow: 0px 0px 3px #c9e6c9;
+  width: 30px;
+  height: 30px;
+}
+#img1
+{
+  margin-left:-27%;
+  margin-top:-27%;
+  
+  position: relative;
+
+}
+#btn
+{
+  color:#fff;
+}.form-group
+{
+  margin-right:15%;
+
+}
+#center
+{
+  padding-right:100px;
+
+}
+#r1
+{
+  padding-top:3%;
+  padding-left:15%;
+  padding-bottom:2%;
+}
+
+#row
+{
+  margin-left:15%;
+}
+#tt1
+{
+width:200px;
+height:30px;
+border-radius:5px;
+box-shadow:0px 0px 5px brown;
+}
+#comment
+{
+  margin-left:25px;
+  padding-left:-10%;
+  box-shadow: 0px 0px 5px brown;
+
+}
+#button
+{
+  margin-left:28%;
+}
+#btn3
+{
+margin:5%;
+background-color:green;
+}

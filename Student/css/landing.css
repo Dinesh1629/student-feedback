@@ -1,0 +1,196 @@
+
+
+.field-wrap {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.button:hover, .button:focus {
+  background: #368a9f;
+}
+
+.button-block {
+   margin-left:5%;
+  width: 25%;
+}
+
+
+
+#feedback
+{
+  height:50px;
+  width:50px;
+  font-family:;
+
+
+}
+#edit
+{
+   height:50px;
+  width:60px;
+  
+}
+#out
+{
+ height:50px;
+  width:60px;
+
+  }
+#pswd
+{
+height:50px;
+  width:50px;
+
+}
+
+.left
+{
+  margin:2%;
+  padding-left:25%;
+  border-style:line;
+
+   
+}
+.right
+{
+  margin:2%;
+  padding-left:25%;
+
+}
+.center
+{
+  margin:1%;
+  padding:10%;
+
+
+}
+#btn2 ,#btn3, #btn4,#btn1
+{
+  margin-top:15%;
+  margin-bottom:15%;
+  background-color:white;
+  color:black;
+  width:200px;
+  height:2%;
+
+}
+#rowmain {
+    margin-top: 5%;
+  
+    background-color:green;
+    border-radius: 1%;
+    box-shadow: 0px 0px 4px #47564C;
+}
+.body {
+  background-color:white;
+  
+}
+
+
+#myNavbar{
+  text-align: center;
+}
+#text1{
+  font-family: Bookman;
+  font-style: inherit;
+  font-size: 34px;
+  text-shadow: 0px 1px 2px black;
+  color:green;
+
+}
+#nav
+{
+  box-shadow: 0px 1px 3px green;
+ padding: 20px; 
+ background-color:yellow;
+ border:none;  
+}
+.navbar-toggle
+{
+  background-color:yellow;
+  box-shadow: 0px 1px 3px black;
+  width: 30px;
+  height: 30px;
+}
+#img1
+{
+  margin-left:-27%;
+  margin-top:-27%;
+  
+  position: relative;
+
+}
+
+.text
+{
+  color:white;
+}
+#left1
+{
+margin-right:5%;
+text-shadow: 0px 1px 1px yellow;
+color:white;
+}
+#right1
+{
+padding-left:25%;
+text-shadow: 0px 1px 1px yellow;
+color:white;
+}
+
+
+a:hover {
+  color: #179b77;
+}
+
+.form {
+
+  padding:20px;
+  box-shadow:0px 1px 1px 1px white;
+    max-width: 400px;
+  border-radius:2px;
+  
+  }
+  
+.tab-group .active a {
+  background: #1ab188;
+  color: #ffffff;
+}
+
+.tab-content > div:last-child {
+  display: none;
+}
+
+label {
+  position: absolute;
+  -webkit-transform: translateY(6px);
+          transform: translateY(6px);
+  left: 13px;
+  color:black;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  -webkit-backface-visibility: hidden;
+  pointer-events: none;
+  font-size: 22px;
+}
+
+input, textarea {
+  font-size: 22px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 5px 10px;
+  margin-top:1px;
+  border-radius: 5px;
+  
+}
+#btn5
+{
+  background-color:white;
+  border-radius:5%;
+  margin-left:40%;
+}
+#modify
+{
+
+}

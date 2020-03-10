@@ -1,0 +1,158 @@
+#main
+{
+	margin-top:7%;
+  margin-left:5%;
+  padding-left:20%;
+  padding-right:20%; 
+
+}
+
+.img
+{
+	
+ background: linear-gradient(green,yellow );  
+	background-repeat: no-repeat;
+	background-size:cover;
+
+  
+}
+#myNavbar{
+  text-align: center;
+}
+#text2{
+  font-family: Bookman;
+  font-style: inherit;
+  font-size: 34px;
+  text-shadow: 0px 1px 2px black;
+  color:green;
+
+}
+#nav
+{
+  box-shadow: 0px 0px 5px green;
+ padding: 20px; 
+ background-color:yellow;
+ border:none;  
+}
+.navbar-toggle
+{
+  background-color:yellow;
+  box-shadow: 0px 0px 3px black;
+  width: 30px;
+  height: 30px;
+}
+#img1
+{
+  margin-left:-27%;
+  margin-top:-27%;
+  
+  position: relative;
+
+}
+
+.form{
+  padding: 70px;
+  max-width: 600px;
+  margin: 20px auto;
+
+  border-radius: 4px;
+  /*-webkit-box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+          box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);*/
+}
+
+
+
+label {
+  position: absolute;
+  -webkit-transform: translateY(6px);
+          transform: translateY(6px);
+  left: 10px;
+
+  color:black;
+  height
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  -webkit-backface-visibility: hidden;
+  pointer-events: none;
+  font-size: 20px;
+
+  
+}
+
+
+label.active {
+  -webkit-transform: translateY(30px);
+          transform: translateY(30px);
+  font-size: 15px;
+  
+
+}
+
+label.highlight {
+  color:black;
+  padding:3%;
+  font-size:30px;
+}
+
+input, textarea {
+  font-size: 25px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 5px 10px;
+  background: none;
+  background-image: none;
+  border: 1px solid #a0b3b0;
+  color:black;
+  border-radius: 2px;
+  -webkit-transition: border-color .25s ease, -webkit-box-shadow .25s ease;
+  transition: border-color .25s ease, -webkit-box-shadow .25s ease;
+  transition: border-color .25s ease, box-shadow .25s ease;
+  transition: border-color .25s ease, box-shadow .25s ease, -webkit-box-shadow .25s ease;
+}
+input:focus, textarea:focus {
+  outline: 0;
+  border-color:black;
+}
+
+textarea {
+  border: 2px solid black;
+  resize: vertical;
+}
+
+.field-wrap {
+  position: relative;
+  background-color:white;
+  margin-top:15%;
+  margin-bottom: 40px;
+}
+#sem,#year,#dept
+{
+	padding-left:90%;
+}
+#tt
+{
+	padding-right:30%;
+}
+#d
+{
+	margin-top:10%;
+	color:black;
+}
+#dd
+{
+	margin-left:45%;
+ width:30%;
+ background-color:green;
+ color:white;
+ border-radius:5px;
+}
+.dept
+{
+	margin-bottom:10%;
+}
+#te
+{
+	height:40px;
+  border-radius:10px;
+}

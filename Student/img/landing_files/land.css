@@ -1,0 +1,41 @@
+#btn1
+{
+	margin-left:45%;
+	margin-top:5%;
+}
+#sub
+{
+	margin-top:5%;
+	margin-left:33%;
+}
+.container
+{
+	margin-top:10%;
+}
+
+#nav
+{
+	background-color:lightgreen;
+	padding-bottom:20px;
+}
+#img
+{
+margin-left:5%;
+}
+#tt1
+{
+	width:20%;
+	margin-left:15%;
+	border-radius:5px;
+	box-shadow: 0px 2px 2px black;
+}
+.btn
+{
+	color:black;
+	text-shadow: 0px 1px 2px black;
+}
+#btn2
+{
+width:150px;
+height:50px;
+}

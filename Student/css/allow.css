@@ -1,0 +1,78 @@
+#edit
+{
+   height:50px;
+  width:50px;
+  
+}
+#nav
+{
+  box-shadow: 0px 0px 5px #caefca;
+ padding: 20px; 
+ background-color:lightgreen;
+ border:none;  
+}
+.navbar-toggle
+{
+  background-color:#66cc00;
+  box-shadow: 0px 0px 3px #c9e6c9;
+  width: 30px;
+  height: 30px;
+}
+#img1
+{
+  margin-left:2%;
+  margin-top:-27%;
+  width: 80%;
+  position: relative;
+
+}
+#btn1
+{
+  width:150px;
+  margin-left:30%;
+}
+#feedback
+{
+  height:50px;
+  width:50px;
+}
+.body
+{
+	margin-left:25%;
+}
+#left1
+{
+  margin-top:2%;
+   
+}
+#right1
+{
+  margin:2%;
+  padding-left:15%;
+
+}
+#last
+{
+padding-left: 15%
+}
+#save
+{
+	margin-left:40%;
+}
+#left2
+{
+	margin-left:2%;
+}
+#right2
+{
+margin:2%;
+  margin-left:25%;	
+}
+#main1
+{
+  background-color:#7CCD7C;
+}
+
+
+
+
